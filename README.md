@@ -6,8 +6,8 @@
 <br><br><br>
 
 ### Certifications
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<!--START_SECTION:update-badges-->
+<!--END_SECTION:update-badges-->
 <br><br><br>
 
 ### Skills
