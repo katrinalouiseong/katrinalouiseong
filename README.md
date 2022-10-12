@@ -1,7 +1,32 @@
-### Hi there 👋
+# Katrina Ong 
+-------------
+### About Me
+🎓 Post-Graduate Business Analytics Student <br>
+🌎 Kingston, Ontario
+<br><br><br>
+
+### Certifications
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+<br><br><br>
+
+### Skills
+![My Skills](https://skillicons.dev/icons?i=py,r,mysql)
+<br><br><br>
+
+### Statistics
+![Katrina`s GitHub stats](https://github-readme-stats.vercel.app/api?username=katrinalouiseong&show_icons=true&theme=vue)
+<br><br><br>
+
+### Connect with Me
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/katrinalouiseong)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/haveakitkatrina) 
+[![My Skills](https://skillicons.dev/icons?i=github)](https://www.github.com/katrinalouiseong)
+<br><br><br>
 
 <!--
 **katrinalouiseong/katrinalouiseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
