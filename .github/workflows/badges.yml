@@ -13,5 +13,5 @@ jobs:
         uses: katrinalouiseong/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          CREDLY_USER: katrina-ong
+          CREDLY_USER: katrinalouiseong
           CREDLY_SORT: POPULAR
