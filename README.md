@@ -11,7 +11,7 @@
 <br><br><br>
 
 ### Skills
-![My Skills](https://skillicons.dev/icons?i=py,r,mysql,postgres)
+![My Skills](https://skillicons.dev/icons?i=py,r,mysql,postgres,html,css)
 <br><br><br>
 
 ### Statistics
