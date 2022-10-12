@@ -1,0 +1,14 @@
+on:
+  schedule:
+    # Runs at 4am UTC every day
+    - cron: "0 4 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: katrinalouiseong/badge-readme@main
+        with:
+          CREDLY_USER: katrina-ong
+          CREDLY_SORT: POPULAR
