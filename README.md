@@ -5,11 +5,6 @@
 🌎 Kingston, Ontario
 <br><br><br>
 
-### Certifications
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-<br><br><br>
-
 ### Skills
 ![My Skills](https://skillicons.dev/icons?i=py,r,mysql,postgres,html,css)
 <br><br><br>
