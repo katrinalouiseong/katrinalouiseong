@@ -1,7 +1,7 @@
 # Katrina Ong 
 -------------
 ### About Me
-🎓 Post-Graduate Business Analytics Student <br>
+🎓 Business Analytics Graduate <br>
 🌎 Kingston, Ontario
 <br><br><br>
 
